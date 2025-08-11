@@ -8,6 +8,7 @@ import Cards from './components/cards';
 import ProductTable from './components/ProductTable';
 import ProductListing from './components/ProductListing';
 import Inventory from './components/Inventory';
+import Orders from './components/Orders';
  
 function App() {
   const totalProductLength = products.length;
@@ -27,6 +28,7 @@ function App() {
                 </>
               } />
               <Route path="/products" element={<ProductListing />} />
+              <Route path="/orders" element={<Orders />} />
               <Route path="/inventory" element={<Inventory />} />
             </Routes>
           </div>

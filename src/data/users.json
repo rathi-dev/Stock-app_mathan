@@ -1,0 +1,72 @@
+[
+    {
+        "user_id": 1,
+        "name": "Amit Sharma",
+        "phone": "+91 9876543210",
+        "address": "45 MG Road, Indiranagar, Bengaluru, Karnataka",
+        "email": "amit.sharma@email.com"
+    },
+    {
+        "user_id": 2,
+        "name": "Priya Verma",
+        "phone": "+91 9823456781",
+        "address": "12 Park Street, Ballygunge, Kolkata, West Bengal",
+        "email": "priya.verma@email.com"
+    },
+    {
+        "user_id": 3,
+        "name": "Rohit Kumar",
+        "phone": "+91 9934567892",
+        "address": "88 Sector 21, Noida, Uttar Pradesh",
+        "email": "rohit.kumar@email.com"
+    },
+    {
+        "user_id": 4,
+        "name": "Sneha Reddy",
+        "phone": "+91 9845123789",
+        "address": "34 Jubilee Hills, Hyderabad, Telangana",
+        "email": "sneha.reddy@email.com"
+    },
+    {
+        "user_id": 5,
+        "name": "Vikram Singh",
+        "phone": "+91 9812345678",
+        "address": "78 Civil Lines, Jaipur, Rajasthan",
+        "email": "vikram.s@email.com"
+    },
+    {
+        "user_id": 6,
+        "name": "Ananya Iyer",
+        "phone": "+91 9876512345",
+        "address": "15 Besant Nagar, Chennai, Tamil Nadu",
+        "email": "ananya.iyer@email.com"
+    },
+    {
+        "user_id": 7,
+        "name": "Kunal Mehta",
+        "phone": "+91 9832456712",
+        "address": "56 Marine Drive, Mumbai, Maharashtra",
+        "email": "kunal.mehta@email.com"
+    },
+    {
+        "user_id": 8,
+        "name": "Pooja Das",
+        "phone": "+91 9867452310",
+        "address": "102 Salt Lake, Kolkata, West Bengal",
+        "email": "pooja.das@email.com"
+    },
+    {
+        "user_id": 9,
+        "name": "Arjun Nair",
+        "phone": "+91 9811223344",
+        "address": "29 Vytilla, Kochi, Kerala",
+        "email": "arjun@email.com"
+    },
+    {
+        "user_id": 10,
+        "name": "Meera Joshi",
+        "phone": "+91 9822114455",
+        "address": "67 Connaught Place, New Delhi",
+        "email": "meera.joshi@email.com"
+    }
+]

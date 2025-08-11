@@ -3,140 +3,140 @@
         "order_id": 1,
         "orderdate": "07-02-2025",
         "status": "Pending",
-        "total_amount": 2599.98,
+        "total_amount": 5299.94,
         "user_id": 3
     },
     {
         "order_id": 2,
-        "orderdate": "21-01-2025",
-        "status": "Delivered",
-        "total_amount": 43294.99,
-        "user_id": 3
+        "orderdate": "14-02-2025",
+        "status": "Shipped",
+        "total_amount": 3799.97,
+        "user_id": 7
     },
     {
         "order_id": 3,
-        "orderdate": "19-05-2025",
+        "orderdate": "18-02-2025",
         "status": "Delivered",
-        "total_amount": 59993.98,
-        "user_id": 5
+        "total_amount": 24899.85,
+        "user_id": 2
     },
     {
         "order_id": 4,
-        "orderdate": "08-05-2025",
-        "status": "Delivered",
-        "total_amount": 15398.48,
-        "user_id": 4
+        "orderdate": "25-02-2025",
+        "status": "Cancelled",
+        "total_amount": 4499.97,
+        "user_id": 9
     },
     {
         "order_id": 5,
-        "orderdate": "16-05-2025",
-        "status": "Shipped",
-        "total_amount": 19996.0,
-        "user_id": 2
-    },
-    {
-        "order_id": 6,
-        "orderdate": "27-05-2025",
-        "status": "Cancelled",
-        "total_amount": 103792.5,
-        "user_id": 2
-    },
-    {
-        "order_id": 7,
-        "orderdate": "03-05-2025",
+        "orderdate": "02-03-2025",
         "status": "Delivered",
-        "total_amount": 64793.5,
+        "total_amount": 7149.94,
         "user_id": 4
     },
     {
+        "order_id": 6,
+        "orderdate": "05-03-2025",
+        "status": "Pending",
+        "total_amount": 4599.97,
+        "user_id": 6
+    },
+    {
+        "order_id": 7,
+        "orderdate": "11-03-2025",
+        "status": "Shipped",
+        "total_amount": 7199.97,
+        "user_id": 8
+    },
+    {
         "order_id": 8,
-        "orderdate": "03-05-2025",
-        "status": "Cancelled",
-        "total_amount": 39195.96,
-        "user_id": 2
-    },
-    {
-        "order_id": 9,
-        "orderdate": "27-03-2025",
+        "orderdate": "15-03-2025",
         "status": "Delivered",
-        "total_amount": 27098.95,
-        "user_id": 3
-    },
-    {
-        "order_id": 10,
-        "orderdate": "15-05-2025",
-        "status": "Shipped",
-        "total_amount": 25999.92,
-        "user_id": 1
-    },
-    {
-        "order_id": 11,
-        "orderdate": "07-05-2025",
-        "status": "Shipped",
-        "total_amount": 32499.95,
-        "user_id": 1
-    },
-    {
-        "order_id": 12,
-        "orderdate": "16-05-2025",
-        "status": "Pending",
-        "total_amount": 87996.0,
-        "user_id": 1
-    },
-    {
-        "order_id": 13,
-        "orderdate": "22-01-2025",
-        "status": "Pending",
-        "total_amount": 2599.98,
+        "total_amount": 3899.97,
         "user_id": 5
     },
     {
-        "order_id": 14,
-        "orderdate": "16-02-2025",
-        "status": "Cancelled",
-        "total_amount": 52997.96,
+        "order_id": 9,
+        "orderdate": "20-03-2025",
+        "status": "Pending",
+        "total_amount": 14899.85,
+        "user_id": 1
+    },
+    {
+        "order_id": 10,
+        "orderdate": "27-03-2025",
+        "status": "Shipped",
+        "total_amount": 11499.94,
+        "user_id": 10
+    },
+    {
+        "order_id": 11,
+        "orderdate": "01-04-2025",
+        "status": "Delivered",
+        "total_amount": 3799.98,
         "user_id": 3
+    },
+    {
+        "order_id": 12,
+        "orderdate": "04-04-2025",
+        "status": "Pending",
+        "total_amount": 4749.97,
+        "user_id": 2
+    },
+    {
+        "order_id": 13,
+        "orderdate": "08-04-2025",
+        "status": "Shipped",
+        "total_amount": 3849.97,
+        "user_id": 6
+    },
+    {
+        "order_id": 14,
+        "orderdate": "12-04-2025",
+        "status": "Delivered",
+        "total_amount": 4499.97,
+        "user_id": 9
     },
     {
         "order_id": 15,
-        "orderdate": "22-02-2025",
-        "status": "Delivered",
-        "total_amount": 110390.5,
-        "user_id": 1
+        "orderdate": "16-04-2025",
+        "status": "Cancelled",
+        "total_amount": 6549.97,
+        "user_id": 4
     },
     {
         "order_id": 16,
-        "orderdate": "29-12-2024",
-        "status": "Shipped",
-        "total_amount": 113394.48,
-        "user_id": 1
+        "orderdate": "20-04-2025",
+        "status": "Delivered",
+        "total_amount": 3899.98,
+        "user_id": 5
     },
     {
         "order_id": 17,
-        "orderdate": "03-03-2025",
+        "orderdate": "24-04-2025",
         "status": "Pending",
-        "total_amount": 6597.48,
-        "user_id": 1
+        "total_amount": 4749.97,
+        "user_id": 7
     },
     {
         "order_id": 18,
-        "orderdate": "09-05-2025",
-        "status": "Cancelled",
-        "total_amount": 126894.95,
-        "user_id": 1
+        "orderdate": "28-04-2025",
+        "status": "Shipped",
+        "total_amount": 13499.94,
+        "user_id": 8
     },
     {
         "order_id": 19,
-        "orderdate": "03-05-2025",
+        "orderdate": "02-05-2025",
         "status": "Delivered",
-        "total_amount": 40996.96,
-        "user_id": 3
+        "total_amount": 21499.85,
+        "user_id": 1
     },
     {
         "order_id": 20,
-        "orderdate": "08-03-2025",
-        "status": "Pending",
-        "total_amount": 28099.45,
-        "user_id": 3
+        "orderdate": "06-05-2025",
+        "status": "Cancelled",
+        "total_amount": 3849.97,
+        "user_id": 10
     }
 ]
