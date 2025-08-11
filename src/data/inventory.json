@@ -1,0 +1,202 @@
+[
+  {
+    "id": "1",
+    "name": "Wireless Keyboard",
+    "category": "Accessories",
+    "brand": "Logitech",
+    "quantity": 20,
+    "price": 1299.99
+  },
+  {
+    "id": "2",
+    "name": "Bluetooth Mouse",
+    "category": "Accessories",
+    "brand": "Logitech",
+    "quantity": 55,
+    "price": 799.5
+  },
+  {
+    "id": "3",
+    "name": "27-inch 4K Monitor",
+    "category": "Display",
+    "brand": "Sony",
+    "quantity": 15,
+    "price": 21999.0
+  },
+  {
+    "id": "4",
+    "name": "Noise Cancelling Headphones",
+    "category": "Audio",
+    "brand": "Boat",
+    "quantity": 32,
+    "price": 4999.0
+  },
+  {
+    "id": "5",
+    "name": "Portable SSD 1TB",
+    "category": "Storage",
+    "brand": "Samsung",
+    "quantity": 30,
+    "price": 6499.99
+  },
+  {
+    "id": "6",
+    "name": "Gaming Mouse Pad",
+    "category": "Accessories",
+    "brand": "Asus",
+    "quantity": 60,
+    "price": 899.0
+  },
+  {
+    "id": "7",
+    "name": "Mechanical Keyboard",
+    "category": "Accessories",
+    "brand": "Redragon",
+    "quantity": 10,
+    "price": 3299.99
+  },
+  {
+    "id": "8",
+    "name": "Smartwatch",
+    "category": "Wearables",
+    "brand": "Realme",
+    "quantity": 8,
+    "price": 4599.0
+  },
+  {
+    "id": "9",
+    "name": "Webcam 1080p",
+    "category": "Cameras",
+    "brand": "Logitech",
+    "quantity": 31,
+    "price": 1499.0
+  },
+  {
+    "id": "10",
+    "name": "USB-C Hub",
+    "category": "Accessories",
+    "brand": "Dell",
+    "quantity": 40,
+    "price": 2499.0
+  },
+  {
+    "id": "11",
+    "name": "Wireless Charger",
+    "category": "Power",
+    "brand": "Unigen",
+    "quantity": 20,
+    "price": 1799.0
+  },
+  {
+    "id": "12",
+    "name": "Laptop Cooling Pad",
+    "category": "Cooling",
+    "brand": "Zebronics",
+    "quantity": 150,
+    "price": 1199.0
+  },
+  {
+    "id": "13",
+    "name": "Mini Projector",
+    "category": "Display",
+    "brand": "BenQ",
+    "quantity": 120,
+    "price": 9999.0
+  },
+  {
+    "id": "14",
+    "name": "Action Camera",
+    "category": "Cameras",
+    "brand": "Nikon",
+    "quantity": 50,
+    "price": 8499.0
+  },
+  {
+    "id": "15",
+    "name": "Bluetooth Speaker",
+    "category": "Audio",
+    "brand": "Marshall",
+    "quantity": 20,
+    "price": 2799.0
+  },
+  {
+    "id": "16",
+    "name": "Laptop Stand",
+    "category": "Accessories",
+    "brand": "Default",
+    "quantity": 8,
+    "price": 1999.0
+  },
+  {
+    "id": "17",
+    "name": "Drawing Tablet",
+    "category": "Graphics",
+    "brand": "Default",
+    "quantity": 200,
+    "price": 4999.0
+  },
+  {
+    "id": "18",
+    "name": "Ethernet Switch",
+    "category": "Networking",
+    "brand": "Cisco",
+    "quantity": 132,
+    "price": 2599.0
+  },
+  {
+    "id": "19",
+    "name": "Power Bank 20000mAh",
+    "category": "Power",
+    "brand": "mi",
+    "quantity": 18,
+    "price": 2299.0
+  },
+  {
+    "id": "20",
+    "name": "External Hard Drive 2TB",
+    "category": "Storage",
+    "brand": "WD",
+    "quantity": 10,
+    "price": 4999.0
+  },
+  {
+    "id": "21",
+    "name": "LED Desk Lamp",
+    "category": "Office",
+    "brand": "Philips",
+    "quantity": 8,
+    "price": 1499.0
+  },
+  {
+    "id": "22",
+    "name": "Smart Plug",
+    "category": "Smart Home",
+    "brand": "Wipro",
+    "quantity": 20,
+    "price": 999.0
+  },
+  {
+    "id": "23",
+    "name": "VR Headset",
+    "category": "Gaming",
+    "brand": "Oculus",
+    "quantity": 55,
+    "price": 14999.0
+  },
+  {
+    "id": "24",
+    "name": "Streaming Microphone",
+    "category": "Audio",
+    "brand": "Yamaha",
+    "quantity": 30,
+    "price": 3599.0
+  },
+  {
+    "id": "25",
+    "name": "WiFi Range Extender",
+    "category": "Networking",
+    "brand": "Default",
+    "quantity": 20,
+    "price": 1899.0
+  }
+]
